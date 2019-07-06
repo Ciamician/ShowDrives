@@ -9,7 +9,7 @@ This shell script will loop through all hard drives in a system and display the 
 * Firmware
 * Capacity
 * Temperature
-* S.M.A.R.T. info
+* S.M.A.R.T. info:
     * Reallocated sector count
     * Current pending sector count
     * UDMA CRC error count
@@ -48,7 +48,7 @@ bash showDrives.sh
 ### Sample output
 ```
 |---------------------------------------------------------------------------------------------------------------|
-| DISK | MODEL            | SERIAL NUMBER    | FIRMWARE   | CAPACITY   | TEMP  | CPS  | RS  | UDMA              |
+| DISK | MODEL            | SERIAL NUMBER    | FIRMWARE   | CAPACITY   | TEMP  | CPS  | RS  | UDMA |            |
 |---------------------------------------------------------------------------------------------------------------|
 | ada0 | WD60EFRX-68L0BN1 | WD-WX11D38NJP38  | 82.00A82   | 6001 GB    | 34  C | 0    |0    | 0    | PASSED     |
 | ada1 | WD60EFRX-68L0BN1 | WD-WX11D189VXT4  | 82.00A82   | 6001 GB    | 34  C | 0    |0    | 0    | PASSED     |
