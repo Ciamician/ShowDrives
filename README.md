@@ -48,9 +48,11 @@ bash showDrives.sh
 ### Sample output
 ```
 |---------------------------------------------------------------------------------------------------------------|
-| ada0 | WD60EFRX-68L0BN1 | WD-WX11D38NJP38  | 82.00A82   | 6001 GB    | 34  C | 0    |0    | 0    | PASSED   |
-| ada1 | WD60EFRX-68L0BN1 | WD-WX11D189VXT4  | 82.00A82   | 6001 GB    | 34  C | 0    |0    | 0    | PASSED   |
-| ada2 | WD60EFRX-68L0BN1 | WD-WX11D28K3RX8  | 82.00A82   | 6001 GB    | 34  C | 0    |0    | 0    | PASSED   |
-| ada3 | WD60EFRX-68L0BN1 | WD-WX21D1825SPA  | 82.00A82   | 6001 GB    | 34  C | 0    |0    | 0    | PASSED   |
+| DISK | MODEL            | SERIAL NUMBER    | FIRMWARE   | CAPACITY   | TEMP  | CPS  | RS  | UDMA              |
+|---------------------------------------------------------------------------------------------------------------|
+| ada0 | WD60EFRX-68L0BN1 | WD-WX11D38NJP38  | 82.00A82   | 6001 GB    | 34  C | 0    |0    | 0    | PASSED     |
+| ada1 | WD60EFRX-68L0BN1 | WD-WX11D189VXT4  | 82.00A82   | 6001 GB    | 34  C | 0    |0    | 0    | PASSED     |
+| ada2 | WD60EFRX-68L0BN1 | WD-WX11D28K3RX8  | 82.00A82   | 6001 GB    | 34  C | 0    |0    | 0    | PASSED     |
+| ada3 | WD60EFRX-68L0BN1 | WD-WX21D1825SPA  | 82.00A82   | 6001 GB    | 34  C | 0    |0    | 0    | PASSED     |
 |---------------------------------------------------------------------------------------------------------------|
 ```
